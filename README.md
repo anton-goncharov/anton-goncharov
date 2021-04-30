@@ -3,7 +3,7 @@
 - 👨‍💻 Most of my projects are Java & Kotlin. I'm fluent in backend and middleware development, mostly specializing in a data integration stack. 
 When required I do full stack MVP prototyping with JavaScript and a suitable frontend framework.
 - 👀 Read more about me and my work experience at [my homepage](https://antongoncharov.com/work).
-- 🏗 Most of my pet projects here are to get convenient starter kits for common purposes and to showcase my basic tech skills.
+- 🏗 Most of my pet projects are here to obtain convenient starter kits for common purposes and to showcase my basic tech skills.
 
 ___
 
