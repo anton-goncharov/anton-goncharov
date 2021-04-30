@@ -4,7 +4,7 @@
 When required I do full stack MVP prototyping with JavaScript and a suitable frontend framework.
 - 👀 Read more about me and my work experience at [my homepage](https://antongoncharov.com/work).
 - 🏗 Most of my pet projects are here to obtain convenient starter kits for common purposes and to showcase my basic tech skills.
-
+- 📫 Reach out to me via contact@antongoncharov.com
 ___
 
 ## ⚙️ My Skill Set
@@ -29,18 +29,19 @@ ___
 ![consul](https://img.shields.io/badge/consul-%23CA2171.svg?&style=for-the-badge&logo=consul&logoColor=white)
 ![ansible](https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
 
-![sass](https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![sass](https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![react](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![vue](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 ___
 
-## 🤝 Contact Me
+## 🤝 Let's Get In Touch
 
-📫 Reach out to me via contact@antongoncharov.com
+
+[![contact@antongoncharov.com](https://img.shields.io/badge/contact@antongoncharov.com%20-%23323330.svg?&style=for-the-badge&logoColor=white)](mailto:contact@antongoncharov.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-goncharov/)
 
 <!---
 anton-goncharov/anton-goncharov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
