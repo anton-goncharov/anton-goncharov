@@ -1,11 +1,13 @@
-# 👋 Hi, I'm Anton
+## 👋 Hi, I'm Anton
 
 - 👨‍💻 Most of my projects are Java & Kotlin. I'm fluent in backend and middleware development, mostly specializing in a data integration stack. 
 When required I do full stack MVP prototyping with JavaScript and a suitable frontend framework.
 - 👀 Read more about me and my work experience at [my homepage](https://antongoncharov.com/work).
 - 🏗 Most of my pet projects here are to get convenient starter kits for common purposes and to showcase my basic tech skills.
 
-# ⚙️ My Skill Set
+___
+
+## ⚙️ My Skill Set
 
 ![java](https://img.shields.io/badge/java%20-%23326ce5.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -34,7 +36,9 @@ When required I do full stack MVP prototyping with JavaScript and a suitable fro
 ![react](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![vue](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
-# 🤝 Contact Me
+___
+
+## 🤝 Contact Me
 
 📫 Reach out to me via contact@antongoncharov.com
 
