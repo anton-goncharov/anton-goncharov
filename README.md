@@ -41,7 +41,7 @@ ___
 ## 🤝 Let's Get In Touch
 
 
-[![contact@antongoncharov.com](https://img.shields.io/badge/contact@antongoncharov.com%20-%23323330.svg?&style=for-the-badge&logoColor=white)](mailto:contact@antongoncharov.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-goncharov/)
+[![contact@antongoncharov.com](https://img.shields.io/badge/contact@antongoncharov.com%20-%23323330.svg?&style=for-the-badge&logoColor=white)](mailto:contact@antongoncharov.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antongoncharov/)
 
 <!---
 anton-goncharov/anton-goncharov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
