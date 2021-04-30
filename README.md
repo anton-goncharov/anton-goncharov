@@ -12,7 +12,7 @@ When required I do full stack MVP prototyping with JavaScript and a suitable fro
 ![spring](https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![apache camel](https://img.shields.io/badge/camel-%23EC6813.svg?&style=for-the-badge&logo=ocaml&logoColor=white)
 ![quarkus](https://img.shields.io/badge/quarkus-%234695EB.svg?&style=for-the-badge&logo=quarkus&logoColor=white)
-![apache kafka](https://img.shields.io/badge/kafka-%23231F20.svg?&style=for-the-badge&logo=kafka&logoColor=white)
+![apache kafka](https://img.shields.io/badge/kafka-%23231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ![oracle](https://img.shields.io/badge/oracle-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
