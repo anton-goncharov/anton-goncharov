@@ -2,9 +2,9 @@
 
 - 👨‍💻 Most of my projects are Java & Kotlin. I'm fluent in backend and middleware development, mostly specializing in data integration stack. 
 When required I do full stack MVP prototyping with JavaScript and a suitable frontend framework.
-- 👀 Read more about me and my work experience at [my homepage](https://antongoncharov.com/work).
+- 👀 Read more about me and my work experience on [my homepage](https://antongoncharov.com/work).
 - 🏗 Most of my pet projects are here to obtain convenient starter kits for common purposes and to showcase my general tech skill set.
-- ✏️ My accidental tech notes can be found on https://dev.to/antongoncharov [![Anton Goncharov's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg?height=15&width=15)](https://dev.to/antongoncharov)
+- ✏️ My accidental tech notes can be found on https://dev.to/antongoncharov 
 - 📫 Reach out to me via contact@antongoncharov.com
 ___
 
