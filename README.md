@@ -4,6 +4,7 @@
 When required I do full stack MVP prototyping with JavaScript and a suitable frontend framework.
 - 👀 Read more about me and my work experience at [my homepage](https://antongoncharov.com/work).
 - 🏗 Most of my pet projects are here to obtain convenient starter kits for common purposes and to showcase my general tech skill set.
+- ✏️ My accidental tech notes can be found on https://dev.to/antongoncharov
 - 📫 Reach out to me via contact@antongoncharov.com
 ___
 
