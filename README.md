@@ -5,7 +5,9 @@ When required I do full stack MVP prototyping with JavaScript and a suitable fro
 - 👀 Read more about me and my work experience on [my homepage](https://antongoncharov.com/work).
 - 🏗 Most of my pet projects are here to obtain convenient starter kits for common purposes and to showcase my general tech skill set.
  
- > Check out the latest published repo: [Apache Camel + OpenTelemetry + Grafana Demo](https://github.com/anton-goncharov/camel-opentelemetry-grafana-demo)
+ > Check out the latest published repos: 
+ > - [Kotlin + Spring + Vue.js + RSocket Demo (Surveys)](https://github.com/anton-goncharov/kotlin-vue-surveys-demo)
+ > - [Apache Camel + OpenTelemetry + Grafana Demo](https://github.com/anton-goncharov/camel-opentelemetry-grafana-demo)
 - ✏️ My occasional tech notes can be found on https://dev.to/antongoncharov 
 - 📫 Reach out to me via contact@antongoncharov.com
 ___
