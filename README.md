@@ -1,9 +1,10 @@
 ## 👋 Hi, I'm Anton
 
-- 👨‍💻 Most of my projects are Java & Kotlin. I'm fluent in backend and middleware development, mostly specializing in data integration stack. 
-When required I do full stack MVP prototyping with JavaScript and a suitable frontend framework.
+- 🇳🇱 I live in Utrecht, Netherlands
+- 👨‍💻 Mostly I write Java & Kotlin. I'm fluent in backend and middleware development, specializing in data integration stack. 
+When required I do full stack MVP prototyping with JavaScript and suitable frontend framework like Vue.
+- 🏗 Most of the repos here are to get convenient starter kits for bootstrapping new projects.
 - 👀 Read more about me and my work experience on [my homepage](https://antongoncharov.com/work).
-- 🏗 Most of my pet projects are here to obtain convenient starter kits for common purposes and to showcase my general tech skill set.
  
  > Check out the latest published repos: 
  > - [Kotlin + Spring + Vue.js + RSocket Demo (Surveys)](https://github.com/anton-goncharov/kotlin-vue-surveys-demo)
