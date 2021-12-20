@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anton
 
-- 🇳🇱 I live in Utrecht, Netherlands
+- 🇳🇱 I live in Amsterdam, Netherlands
 - 👨‍💻 Mostly I write Java & Kotlin. I'm fluent in backend and middleware development, specializing in data integration stack. 
 When required I do full stack MVP prototyping with JavaScript and suitable frontend framework like Vue.
 - 🏗 Most of the repos here are to get convenient starter kits for bootstrapping new projects.
