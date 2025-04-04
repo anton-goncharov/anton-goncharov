@@ -47,7 +47,6 @@ ___
 
 - [Email](mailto:contact@antongoncharov.com)
 - [LinkedIn](https://www.linkedin.com/in/antongoncharov/)
-- [Polywork](https://polywork.com/antongoncharov)
 - [StackOverflow](https://stackoverflow.com/users/2173500/anton-goncharov)
 
 <!---
