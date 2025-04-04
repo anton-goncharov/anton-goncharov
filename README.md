@@ -9,7 +9,6 @@ When required I do full stack MVP prototyping with JavaScript and suitable front
  > Check out the latest published repos: 
  > - [Kotlin + Spring + Vue.js + RSocket Demo (Surveys)](https://github.com/anton-goncharov/kotlin-vue-surveys-demo)
  > - [Apache Camel + OpenTelemetry + Grafana Demo](https://github.com/anton-goncharov/camel-opentelemetry-grafana-demo)
-- ✏️ My occasional tech notes can be found on https://dev.to/antongoncharov 
 - 📫 Reach out to me via contact@antongoncharov.com
 ___
 
